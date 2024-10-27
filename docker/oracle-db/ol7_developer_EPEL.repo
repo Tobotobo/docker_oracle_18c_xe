@@ -1,0 +1,5 @@
+[ol7_developer_EPEL]
+name=Oracle Linux 7 EPEL
+baseurl=https://yum.oracle.com/repo/OracleLinux/OL7/developer_EPEL/x86_64/
+gpgcheck=0
+enabled=1
